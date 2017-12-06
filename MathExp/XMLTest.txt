@@ -1,0 +1,1498 @@
+<Page id="0">
+	<Line id="0" BBOX=40.0 700.0 541.672 700.0 >
+		<Word id="0">
+			<Char id="0" mergeId="0" BBOX="39.34 697.4219 3.2226562 1.0605469">-</Char>
+		</Word>
+		<Word id="1">
+			<Char id="1" mergeId="0" BBOX="54.98 700.0 8.027344 8.589844">A</Char>
+		</Word>
+		<Word id="2">
+			<Char id="2" mergeId="0" BBOX="68.48 700.0 6.4921875 8.589844">B</Char>
+		</Word>
+		<Word id="3">
+			<Char id="3" mergeId="0" BBOX="83.96 699.8535 7.5878906 8.8828125">C</Char>
+		</Word>
+		<Word id="4">
+			<Char id="4" mergeId="0" BBOX="98.36 700.0 7.1015625 8.589844">D</Char>
+		</Word>
+		<Word id="5">
+			<Char id="5" mergeId="0" BBOX="113.38 700.0 6.4160156 8.589844">E</Char>
+		</Word>
+		<Word id="6">
+			<Char id="6" mergeId="0" BBOX="128.36 700.0 5.794922 8.589844">F</Char>
+		</Word>
+		<Word id="7">
+			<Char id="7" mergeId="0" BBOX="143.94 699.8535 7.9453125 8.8828125">G</Char>
+		</Word>
+		<Word id="8">
+			<Char id="8" mergeId="0" BBOX="158.36 700.0 6.7441406 8.589844">H</Char>
+		</Word>
+		<Word id="9">
+			<Char id="9" mergeId="0" BBOX="173.12 700.0 1.1425781 8.589844">I</Char>
+		</Word>
+		<Word id="10">
+			<Char id="10" mergeId="0" BBOX="189.45 699.8535 4.716797 8.736328">J</Char>
+		</Word>
+		<Word id="11">
+			<Char id="11" mergeId="0" BBOX="203.5 700.0 7.1015625 8.589844">K</Char>
+		</Word>
+		<Word id="12">
+			<Char id="12" mergeId="0" BBOX="218.46 700.0 5.373047 8.589844">L</Char>
+		</Word>
+		<Word id="13">
+			<Char id="13" mergeId="0" BBOX="233.44 700.0 8.167969 8.589844">M</Char>
+		</Word>
+		<Word id="14">
+			<Char id="14" mergeId="0" BBOX="248.38 700.0 6.7558594 8.589844">N</Char>
+		</Word>
+		<Word id="15">
+			<Char id="15" mergeId="0" BBOX="264.04 699.8535 8.220703 8.8828125">O</Char>
+		</Word>
+		<Word id="16">
+			<Char id="16" mergeId="0" BBOX="278.42 700.0 6.5507812 8.589844">P</Char>
+		</Word>
+		<Word id="17">
+			<Char id="17" mergeId="0" BBOX="294.04 699.3262 8.378906 9.410156">Q</Char>
+		</Word>
+		<Word id="18">
+			<Char id="18" mergeId="0" BBOX="308.36 700.0 7.5703125 8.589844">R</Char>
+		</Word>
+		<Word id="19">
+			<Char id="19" mergeId="0" BBOX="324.08 699.8535 6.84375 8.8828125">S</Char>
+		</Word>
+		<Word id="20">
+			<Char id="20" mergeId="0" BBOX="339.55 700.0 6.8027344 8.589844">T</Char>
+		</Word>
+		<Word id="21">
+			<Char id="21" mergeId="0" BBOX="353.38 699.8535 6.7558594 8.736328">U</Char>
+		</Word>
+		<Word id="22">
+			<Char id="22" mergeId="0" BBOX="369.88 700.0 7.8515625 8.589844">V</Char>
+		</Word>
+		<Word id="23">
+			<Char id="23" mergeId="0" BBOX="384.75 700.0 11.050781 8.589844">W</Char>
+		</Word>
+		<Word id="24">
+			<Char id="24" mergeId="0" BBOX="399.9 700.0 7.875 8.589844">X</Char>
+		</Word>
+		<Word id="25">
+			<Char id="25" mergeId="0" BBOX="414.9 700.0 7.875 8.589844">Y</Char>
+		</Word>
+		<Word id="26">
+			<Char id="26" mergeId="0" BBOX="429.63 700.0 6.7910156 8.589844">Z</Char>
+		</Word>
+		<Word id="27">
+			<Char id="27" mergeId="0" BBOX="444.22 699.8535 5.736328 6.5039062">a</Char>
+		</Word>
+		<Word id="28">
+			<Char id="28" mergeId="0" BBOX="458.63 699.8535 5.4023438 8.736328">b</Char>
+		</Word>
+		<Word id="29">
+			<Char id="29" mergeId="0" BBOX="474.2 699.8535 5.4257812 6.5039062">c</Char>
+		</Word>
+		<Word id="30">
+			<Char id="30" mergeId="0" BBOX="489.26 699.8535 5.3964844 8.736328">d</Char>
+		</Word>
+		<Word id="31">
+			<Char id="31" mergeId="0" BBOX="504.2 699.8535 5.736328 6.5039062">e</Char>
+		</Word>
+		<Word id="32">
+			<Char id="32" mergeId="0" BBOX="519.84 700.0 3.6386719 8.736328">f</Char>
+		</Word>
+		<Word id="33">
+			<Char id="33" mergeId="0" BBOX="534.3 697.48047 5.484375 8.876953">g</Char>
+		</Word>
+	</Line>
+	<Line id="1" BBOX=40.0 685.0 543.004 685.0 >
+		<Word id="34">
+			<Char id="34" mergeId="0" BBOX="38.63 685.0 5.080078 8.589844">h</Char>
+		</Word>
+		<Word id="35">
+			<Char id="35" mergeId="0" BBOX="53.63 685.0 1.0546875 8.589844">i</Char>
+		</Word>
+		<Word id="36">
+			<Char id="36" mergeId="0" BBOX="69.08 682.4922 2.3964844 11.097656">j</Char>
+		</Word>
+		<Word id="37">
+			<Char id="37" mergeId="0" BBOX="83.65 685.0 5.1621094 8.589844">k</Char>
+		</Word>
+		<Word id="38">
+			<Char id="38" mergeId="0" BBOX="98.63 685.0 1.0546875 8.589844">l</Char>
+		</Word>
+		<Word id="39">
+			<Char id="39" mergeId="0" BBOX="113.67 685.0 8.449219 6.357422">m</Char>
+		</Word>
+		<Word id="40">
+			<Char id="40" mergeId="0" BBOX="128.61 685.0 5.0683594 6.357422">n</Char>
+		</Word>
+		<Word id="41">
+			<Char id="41" mergeId="0" BBOX="144.28 684.8535 5.830078 6.5039062">o</Char>
+		</Word>
+		<Word id="42">
+			<Char id="42" mergeId="0" BBOX="158.61 682.6094 5.4023438 8.748047">p</Char>
+		</Word>
+		<Word id="43">
+			<Char id="43" mergeId="0" BBOX="174.22 682.6094 5.3964844 8.748047">q</Char>
+		</Word>
+		<Word id="44">
+			<Char id="44" mergeId="0" BBOX="188.69 685.0 3.3867188 6.357422">r</Char>
+		</Word>
+		<Word id="45">
+			<Char id="45" mergeId="0" BBOX="204.37 684.8535 5.1621094 6.5039062">s</Char>
+		</Word>
+		<Word id="46">
+			<Char id="46" mergeId="0" BBOX="219.65 684.91797 3.0234375 8.484375">t</Char>
+		</Word>
+		<Word id="47">
+			<Char id="47" mergeId="0" BBOX="233.65 684.8535 5.0507812 6.3632812">u</Char>
+		</Word>
+		<Word id="48">
+			<Char id="48" mergeId="0" BBOX="249.73 685.0 5.6953125 6.216797">v</Char>
+		</Word>
+		<Word id="49">
+			<Char id="49" mergeId="0" BBOX="264.9 685.0 8.542969 6.216797">w</Char>
+		</Word>
+		<Word id="50">
+			<Char id="50" mergeId="0" BBOX="279.86 685.0 5.8359375 6.216797">x</Char>
+		</Word>
+		<Word id="51">
+			<Char id="51" mergeId="0" BBOX="294.67 682.48047 5.7128906 8.736328">y</Char>
+		</Word>
+		<Word id="52">
+			<Char id="52" mergeId="0" BBOX="309.59 685.0 5.5078125 6.216797">z</Char>
+		</Word>
+		<Word id="53">
+			<Char id="53" mergeId="0" BBOX="324.08 684.8535 5.595703 8.777344">0</Char>
+		</Word>
+		<Word id="54">
+			<Char id="54" mergeId="0" BBOX="337.73 685.0 3.1699219 8.630859">1</Char>
+		</Word>
+		<Word id="55">
+			<Char id="55" mergeId="0" BBOX="354.37 685.0 5.689453 8.630859">2</Char>
+		</Word>
+		<Word id="56">
+			<Char id="56" mergeId="0" BBOX="369.1 684.8535 5.6308594 8.777344">3</Char>
+		</Word>
+		<Word id="57">
+			<Char id="57" mergeId="0" BBOX="384.69 685.0 5.935547 8.589844">4</Char>
+		</Word>
+		<Word id="58">
+			<Char id="58" mergeId="0" BBOX="399.14 684.8535 5.689453 8.619141">5</Char>
+		</Word>
+		<Word id="59">
+			<Char id="59" mergeId="0" BBOX="414.14 684.8535 5.6660156 8.777344">6</Char>
+		</Word>
+		<Word id="60">
+			<Char id="60" mergeId="0" BBOX="429.02 685.0 5.560547 8.472656">7</Char>
+		</Word>
+		<Word id="61">
+			<Char id="61" mergeId="0" BBOX="444.14 684.8535 5.654297 8.777344">8</Char>
+		</Word>
+		<Word id="62">
+			<Char id="62" mergeId="0" BBOX="459.12 684.8535 5.642578 8.777344">9</Char>
+		</Word>
+		<Word id="63">
+			<Char id="63" mergeId="0" BBOX="474.98 685.0 8.027344 10.798828">À</Char>
+		</Word>
+		<Word id="64">
+			<Char id="64" mergeId="0" BBOX="489.98 685.0 8.027344 10.798828">Á</Char>
+		</Word>
+		<Word id="65">
+			<Char id="65" mergeId="0" BBOX="504.98 685.0 8.027344 10.798828">Â</Char>
+		</Word>
+		<Word id="66">
+			<Char id="66" mergeId="0" BBOX="519.98 685.0 8.027344 10.628906">Ã</Char>
+		</Word>
+		<Word id="67">
+			<Char id="67" mergeId="0" BBOX="534.98 685.0 8.027344 10.5703125">Ä</Char>
+		</Word>
+	</Line>
+	<Line id="2" BBOX=40.0 670.0 541.672 670.0 >
+		<Word id="68">
+			<Char id="68" mergeId="0" BBOX="39.98 670.0 8.027344 11.0390625">Å</Char>
+		</Word>
+		<Word id="69">
+			<Char id="69" mergeId="0" BBOX="53.96 667.4922 7.5996094 11.244141">Ç</Char>
+		</Word>
+		<Word id="70">
+			<Char id="70" mergeId="0" BBOX="68.38 670.0 6.4160156 10.798828">È</Char>
+		</Word>
+		<Word id="71">
+			<Char id="71" mergeId="0" BBOX="83.38 670.0 6.4160156 10.798828">É</Char>
+		</Word>
+		<Word id="72">
+			<Char id="72" mergeId="0" BBOX="98.38 670.0 6.4160156 10.798828">Ê</Char>
+		</Word>
+		<Word id="73">
+			<Char id="73" mergeId="0" BBOX="113.38 670.0 6.4160156 10.5703125">Ë</Char>
+		</Word>
+		<Word id="74">
+			<Char id="74" mergeId="0" BBOX="129.7 670.0 2.1621094 10.798828">Ì</Char>
+		</Word>
+		<Word id="75">
+			<Char id="75" mergeId="0" BBOX="143.29 670.0 2.1621094 10.798828">Í</Char>
+		</Word>
+		<Word id="76">
+			<Char id="76" mergeId="0" BBOX="159.69 670.0 3.703125 10.798828">Î</Char>
+		</Word>
+		<Word id="77">
+			<Char id="77" mergeId="0" BBOX="174.93 670.0 3.2519531 10.5703125">Ï</Char>
+		</Word>
+		<Word id="78">
+			<Char id="78" mergeId="0" BBOX="188.38 670.0 6.7558594 10.605469">Ñ</Char>
+		</Word>
+		<Word id="79">
+			<Char id="79" mergeId="0" BBOX="204.04 669.8535 8.220703 10.9453125">Ò</Char>
+		</Word>
+		<Word id="80">
+			<Char id="80" mergeId="0" BBOX="219.04 669.8535 8.220703 10.9453125">Ó</Char>
+		</Word>
+		<Word id="81">
+			<Char id="81" mergeId="0" BBOX="234.04 669.8535 8.220703 10.9453125">Ô</Char>
+		</Word>
+		<Word id="82">
+			<Char id="82" mergeId="0" BBOX="249.04 669.8535 8.220703 10.751953">Õ</Char>
+		</Word>
+		<Word id="83">
+			<Char id="83" mergeId="0" BBOX="264.04 669.8535 8.220703 10.716797">Ö</Char>
+		</Word>
+		<Word id="84">
+			<Char id="84" mergeId="0" BBOX="279.16 669.6543 8.4140625 9.251953">Ø</Char>
+		</Word>
+		<Word id="85">
+			<Char id="85" mergeId="0" BBOX="293.38 669.8535 6.7558594 10.9453125">Ù</Char>
+		</Word>
+		<Word id="86">
+			<Char id="86" mergeId="0" BBOX="308.38 669.8535 6.7558594 10.9453125">Ú</Char>
+		</Word>
+		<Word id="87">
+			<Char id="87" mergeId="0" BBOX="323.38 669.8535 6.7558594 10.9453125">Û</Char>
+		</Word>
+		<Word id="88">
+			<Char id="88" mergeId="0" BBOX="338.38 669.8535 6.7558594 10.716797">Ü</Char>
+		</Word>
+		<Word id="89">
+			<Char id="89" mergeId="0" BBOX="354.9 670.0 7.875 10.798828">Ý</Char>
+		</Word>
+		<Word id="90">
+			<Char id="90" mergeId="0" BBOX="368.53 669.8535 6.064453 8.8828125">ß</Char>
+		</Word>
+		<Word id="91">
+			<Char id="91" mergeId="0" BBOX="384.22 669.8535 5.736328 8.8828125">à</Char>
+		</Word>
+		<Word id="92">
+			<Char id="92" mergeId="0" BBOX="399.22 669.8535 5.736328 8.8828125">á</Char>
+		</Word>
+		<Word id="93">
+			<Char id="93" mergeId="0" BBOX="414.22 669.8535 5.736328 8.8828125">â</Char>
+		</Word>
+		<Word id="94">
+			<Char id="94" mergeId="0" BBOX="429.22 669.8535 5.736328 8.736328">ã</Char>
+		</Word>
+		<Word id="95">
+			<Char id="95" mergeId="0" BBOX="444.22 669.8535 5.736328 8.677734">ä</Char>
+		</Word>
+		<Word id="96">
+			<Char id="96" mergeId="0" BBOX="459.22 669.8535 5.736328 9.169922">å</Char>
+		</Word>
+		<Word id="97">
+			<Char id="97" mergeId="0" BBOX="474.2 667.6504 5.4257812 8.707031">ç</Char>
+		</Word>
+		<Word id="98">
+			<Char id="98" mergeId="0" BBOX="489.2 669.8535 5.736328 8.8828125">è</Char>
+		</Word>
+		<Word id="99">
+			<Char id="99" mergeId="0" BBOX="504.2 669.8535 5.736328 8.8828125">é</Char>
+		</Word>
+		<Word id="100">
+			<Char id="100" mergeId="0" BBOX="519.2 669.8535 5.736328 8.8828125">ê</Char>
+		</Word>
+		<Word id="101">
+			<Char id="101" mergeId="0" BBOX="534.2 669.8535 5.736328 8.677734">ë</Char>
+		</Word>
+	</Line>
+	<Line id="3" BBOX=40.0 655.0 540.208 655.0 >
+		<Word id="102">
+			<Char id="102" mergeId="0" BBOX="39.74 655.0 2.1621094 8.736328">ì</Char>
+		</Word>
+		<Word id="103">
+			<Char id="103" mergeId="0" BBOX="53.29 655.0 2.1621094 8.736328">í</Char>
+		</Word>
+		<Word id="104">
+			<Char id="104" mergeId="0" BBOX="69.69 655.0 3.703125 8.736328">î</Char>
+		</Word>
+		<Word id="105">
+			<Char id="105" mergeId="0" BBOX="84.89 655.0 3.2519531 8.53125">ï</Char>
+		</Word>
+		<Word id="106">
+			<Char id="106" mergeId="0" BBOX="98.61 655.0 5.0683594 8.589844">ñ</Char>
+		</Word>
+		<Word id="107">
+			<Char id="107" mergeId="0" BBOX="114.28 654.8535 5.830078 8.8828125">ò</Char>
+		</Word>
+		<Word id="108">
+			<Char id="108" mergeId="0" BBOX="129.28 654.8535 5.830078 8.8828125">ó</Char>
+		</Word>
+		<Word id="109">
+			<Char id="109" mergeId="0" BBOX="144.28 654.8535 5.830078 8.8828125">ô</Char>
+		</Word>
+		<Word id="110">
+			<Char id="110" mergeId="0" BBOX="159.28 654.8535 5.830078 8.736328">õ</Char>
+		</Word>
+		<Word id="111">
+			<Char id="111" mergeId="0" BBOX="174.28 654.8535 5.830078 8.677734">ö</Char>
+		</Word>
+		<Word id="112">
+			<Char id="112" mergeId="0" BBOX="188.71 654.53125 5.830078 7.0664062">ø</Char>
+		</Word>
+		<Word id="113">
+			<Char id="113" mergeId="0" BBOX="203.65 654.8535 5.0507812 8.8828125">ù</Char>
+		</Word>
+		<Word id="114">
+			<Char id="114" mergeId="0" BBOX="218.65 654.8535 5.0507812 8.8828125">ú</Char>
+		</Word>
+		<Word id="115">
+			<Char id="115" mergeId="0" BBOX="233.65 654.8535 5.0507812 8.8828125">û</Char>
+		</Word>
+		<Word id="116">
+			<Char id="116" mergeId="0" BBOX="248.65 654.8535 5.0507812 8.677734">ü</Char>
+		</Word>
+		<Word id="117">
+			<Char id="117" mergeId="0" BBOX="264.67 652.48047 5.7128906 11.255859">ý</Char>
+		</Word>
+		<Word id="118">
+			<Char id="118" mergeId="0" BBOX="278.38 654.8535 6.7558594 10.9453125">Û</Char>
+		</Word>
+		<Word id="119">
+			<Char id="119" mergeId="0" BBOX="294.69 655.0 3.703125 8.736328">î</Char>
+		</Word>
+		<Word id="120">
+			<Char id="120" mergeId="0" BBOX="308.34 655.0 5.361328 8.589844">?</Char>
+		</Word>
+		<Word id="121">
+			<Char id="121" mergeId="0" BBOX="324.88 655.0 8.027344 8.589844">?</Char>
+		</Word>
+		<Word id="122">
+			<Char id="122" mergeId="0" BBOX="339.04 654.8535 8.220703 8.8828125">?</Char>
+		</Word>
+		<Word id="123">
+			<Char id="123" mergeId="0" BBOX="354.9 655.0 7.8515625 8.589844">?</Char>
+		</Word>
+		<Word id="124">
+			<Char id="124" mergeId="0" BBOX="368.91 655.0 6.5273438 8.589844">?</Char>
+		</Word>
+		<Word id="125">
+			<Char id="125" mergeId="0" BBOX="383.36 655.0 6.7441406 8.589844">?</Char>
+		</Word>
+		<Word id="126">
+			<Char id="126" mergeId="0" BBOX="399.04 655.0 6.0878906 8.589844">?</Char>
+		</Word>
+		<Word id="127">
+			<Char id="127" mergeId="0" BBOX="414.88 655.0 7.453125 8.630859">?</Char>
+		</Word>
+		<Word id="128">
+			<Char id="128" mergeId="0" BBOX="429.04 654.68945 8.572266 9.152344">?</Char>
+		</Word>
+		<Word id="129">
+			<Char id="129" mergeId="0" BBOX="444.06 655.0 8.5546875 8.589844">?</Char>
+		</Word>
+		<Word id="130">
+			<Char id="130" mergeId="0" BBOX="458.94 655.0 7.8515625 8.736328">?</Char>
+		</Word>
+		<Word id="131">
+			<Char id="131" mergeId="0" BBOX="474.28 654.8535 6.0703125 6.5039062">?</Char>
+		</Word>
+		<Word id="132">
+			<Char id="132" mergeId="0" BBOX="488.65 652.6094 5.5429688 11.126953">?</Char>
+		</Word>
+		<Word id="133">
+			<Char id="133" mergeId="0" BBOX="504.73 652.6094 5.6953125 8.607422">?</Char>
+		</Word>
+		<Word id="134">
+			<Char id="134" mergeId="0" BBOX="519.28 654.8535 5.841797 8.736328">?</Char>
+		</Word>
+		<Word id="135">
+			<Char id="135" mergeId="0" BBOX="534.41 654.8535 4.5117188 6.5039062">?</Char>
+		</Word>
+	</Line>
+	<Line id="4" BBOX=40.0 640.0 541.0 640.0 >
+		<Word id="136">
+			<Char id="136" mergeId="0" BBOX="39.28 637.48047 4.7753906 11.109375">?</Char>
+		</Word>
+		<Word id="137">
+			<Char id="137" mergeId="0" BBOX="53.61 637.6094 5.0683594 8.748047">?</Char>
+		</Word>
+		<Word id="138">
+			<Char id="138" mergeId="0" BBOX="69.08 639.8535 5.595703 8.8828125">?</Char>
+		</Word>
+		<Word id="139">
+			<Char id="139" mergeId="0" BBOX="83.63 640.0 1.0546875 6.216797">?</Char>
+		</Word>
+		<Word id="140">
+			<Char id="140" mergeId="0" BBOX="98.67 640.0 5.2089844 6.216797">?</Char>
+		</Word>
+		<Word id="141">
+			<Char id="141" mergeId="0" BBOX="114.73 640.0 5.6953125 8.589844">?</Char>
+		</Word>
+		<Word id="142">
+			<Char id="142" mergeId="0" BBOX="128.65 637.6094 5.0507812 8.607422">?</Char>
+		</Word>
+		<Word id="143">
+			<Char id="143" mergeId="0" BBOX="144.73 640.0 5.6953125 6.216797">?</Char>
+		</Word>
+		<Word id="144">
+			<Char id="144" mergeId="0" BBOX="159.28 637.48047 4.6171875 11.255859">?</Char>
+		</Word>
+		<Word id="145">
+			<Char id="145" mergeId="0" BBOX="174.67 640.0 7.751953 6.216797">?</Char>
+		</Word>
+		<Word id="146">
+			<Char id="146" mergeId="0" BBOX="188.65 637.6094 5.642578 8.748047">?</Char>
+		</Word>
+		<Word id="147">
+			<Char id="147" mergeId="0" BBOX="204.28 639.8535 6.7441406 6.5566406">?</Char>
+		</Word>
+		<Word id="148">
+			<Char id="148" mergeId="0" BBOX="219.67 640.0 4.201172 6.216797">?</Char>
+		</Word>
+		<Word id="149">
+			<Char id="149" mergeId="0" BBOX="233.61 639.8535 4.9804688 6.3632812">?</Char>
+		</Word>
+		<Word id="150">
+			<Char id="150" mergeId="0" BBOX="249.28 637.6094 6.8847656 10.980469">?</Char>
+		</Word>
+		<Word id="151">
+			<Char id="151" mergeId="0" BBOX="264.86 637.6094 6.0996094 8.607422">?</Char>
+		</Word>
+		<Word id="152">
+			<Char id="152" mergeId="0" BBOX="278.65 637.6094 7.154297 8.607422">?</Char>
+		</Word>
+		<Word id="153">
+			<Char id="153" mergeId="0" BBOX="294.28 639.8535 8.349609 6.3632812">?</Char>
+		</Word>
+		<Word id="154">
+			<Char id="154" mergeId="0" BBOX="309.41 639.8535 4.5117188 6.5039062">?</Char>
+		</Word>
+		<Word id="155">
+			<Char id="155" mergeId="0" BBOX="324.53 639.8535 6.8671875 8.8828125">?</Char>
+		</Word>
+		<Word id="156">
+			<Char id="156" mergeId="0" BBOX="339.61 639.8535 8.724609 6.3632812">?</Char>
+		</Word>
+		<Word id="157">
+			<Char id="157" mergeId="0" BBOX="353.65 637.4922 5.642578 8.865234">?</Char>
+		</Word>
+		<Word id="158">
+			<Char id="158" mergeId="0" BBOX="369.28 637.48047 5.15625 8.876953">?</Char>
+		</Word>
+		<Word id="159">
+			<Char id="159" mergeId="0" BBOX="384.28 637.6094 6.9433594 8.748047">?</Char>
+		</Word>
+		<Word id="160">
+			<Char id="160" mergeId="0" BBOX="399.98 640.0 8.027344 10.001953">?</Char>
+		</Word>
+		<Word id="161">
+			<Char id="161" mergeId="0" BBOX="414.22 639.8535 5.736328 8.5078125">?</Char>
+		</Word>
+		<Word id="162">
+			<Char id="162" mergeId="0" BBOX="429.98 640.0 8.027344 10.658203">?</Char>
+		</Word>
+		<Word id="163">
+			<Char id="163" mergeId="0" BBOX="444.22 639.8535 5.736328 8.8125">?</Char>
+		</Word>
+		<Word id="164">
+			<Char id="164" mergeId="0" BBOX="459.98 637.5039 9.105469 11.0859375">?</Char>
+		</Word>
+		<Word id="165">
+			<Char id="165" mergeId="0" BBOX="474.22 637.5039 6.392578 8.853516">?</Char>
+		</Word>
+		<Word id="166">
+			<Char id="166" mergeId="0" BBOX="488.96 639.8535 7.5878906 11.1328125">?</Char>
+		</Word>
+		<Word id="167">
+			<Char id="167" mergeId="0" BBOX="504.2 639.8535 5.4257812 8.8828125">?</Char>
+		</Word>
+		<Word id="168">
+			<Char id="168" mergeId="0" BBOX="518.96 639.8535 7.5878906 11.109375">?</Char>
+		</Word>
+		<Word id="169">
+			<Char id="169" mergeId="0" BBOX="534.2 639.8535 5.4257812 8.8828125">?</Char>
+		</Word>
+	</Line>
+	<Line id="5" BBOX=40.0 625.0 537.664 625.0 >
+		<Word id="170">
+			<Char id="170" mergeId="0" BBOX="38.96 624.8535 7.5878906 10.669922">?</Char>
+		</Word>
+		<Word id="171">
+			<Char id="171" mergeId="0" BBOX="54.2 624.8535 5.4257812 8.677734">?</Char>
+		</Word>
+		<Word id="172">
+			<Char id="172" mergeId="0" BBOX="68.96 624.8535 7.5878906 11.1328125">?</Char>
+		</Word>
+		<Word id="173">
+			<Char id="173" mergeId="0" BBOX="84.2 624.8535 5.4257812 8.8828125">?</Char>
+		</Word>
+		<Word id="174">
+			<Char id="174" mergeId="0" BBOX="98.36 625.0 7.1015625 10.986328">?</Char>
+		</Word>
+		<Word id="175">
+			<Char id="175" mergeId="0" BBOX="114.26 624.8535 7.0664062 8.736328">?</Char>
+		</Word>
+		<Word id="176">
+			<Char id="176" mergeId="0" BBOX="129.98 625.0 8.074219 8.589844">?</Char>
+		</Word>
+		<Word id="177">
+			<Char id="177" mergeId="0" BBOX="144.26 624.8535 6.1757812 8.736328">?</Char>
+		</Word>
+		<Word id="178">
+			<Char id="178" mergeId="0" BBOX="158.38 625.0 6.4160156 10.353516">?</Char>
+		</Word>
+		<Word id="179">
+			<Char id="179" mergeId="0" BBOX="174.2 624.8535 5.736328 8.5078125">?</Char>
+		</Word>
+		<Word id="180">
+			<Char id="180" mergeId="0" BBOX="188.38 625.0 6.4160156 10.822266">?</Char>
+		</Word>
+		<Word id="181">
+			<Char id="181" mergeId="0" BBOX="204.2 624.8535 5.736328 8.8125">?</Char>
+		</Word>
+		<Word id="182">
+			<Char id="182" mergeId="0" BBOX="218.38 625.0 6.4160156 10.5234375">?</Char>
+		</Word>
+		<Word id="183">
+			<Char id="183" mergeId="0" BBOX="234.2 624.8535 5.736328 8.677734">?</Char>
+		</Word>
+		<Word id="184">
+			<Char id="184" mergeId="0" BBOX="248.38 622.5039 6.7910156 11.0859375">?</Char>
+		</Word>
+		<Word id="185">
+			<Char id="185" mergeId="0" BBOX="264.2 622.5039 5.736328 8.853516">?</Char>
+		</Word>
+		<Word id="186">
+			<Char id="186" mergeId="0" BBOX="278.38 625.0 6.4160156 10.986328">?</Char>
+		</Word>
+		<Word id="187">
+			<Char id="187" mergeId="0" BBOX="294.2 624.8535 5.736328 8.8828125">?</Char>
+		</Word>
+		<Word id="188">
+			<Char id="188" mergeId="0" BBOX="308.94 624.8535 7.9453125 11.109375">?</Char>
+		</Word>
+		<Word id="189">
+			<Char id="189" mergeId="0" BBOX="324.3 622.48047 5.484375 11.255859">?</Char>
+		</Word>
+		<Word id="190">
+			<Char id="190" mergeId="0" BBOX="338.94 624.8535 7.9453125 10.9921875">?</Char>
+		</Word>
+		<Word id="191">
+			<Char id="191" mergeId="0" BBOX="354.3 622.48047 5.484375 11.185547">?</Char>
+		</Word>
+		<Word id="192">
+			<Char id="192" mergeId="0" BBOX="368.94 624.8535 7.9453125 10.669922">?</Char>
+		</Word>
+		<Word id="193">
+			<Char id="193" mergeId="0" BBOX="384.3 622.48047 5.484375 11.050781">?</Char>
+		</Word>
+		<Word id="194">
+			<Char id="194" mergeId="0" BBOX="398.94 622.48047 7.9453125 11.255859">?</Char>
+		</Word>
+		<Word id="195">
+			<Char id="195" mergeId="0" BBOX="414.3 622.48047 5.484375 11.255859">?</Char>
+		</Word>
+		<Word id="196">
+			<Char id="196" mergeId="0" BBOX="428.36 625.0 6.7441406 10.962891">?</Char>
+		</Word>
+		<Word id="197">
+			<Char id="197" mergeId="0" BBOX="443.63 625.0 5.080078 10.962891">?</Char>
+		</Word>
+		<Word id="198">
+			<Char id="198" mergeId="0" BBOX="459.98 625.0 8.677734 8.589844">?</Char>
+		</Word>
+		<Word id="199">
+			<Char id="199" mergeId="0" BBOX="474.96 625.0 5.859375 8.589844">?</Char>
+		</Word>
+		<Word id="200">
+			<Char id="200" mergeId="0" BBOX="489.5 625.0 3.9257812 10.675781">?</Char>
+		</Word>
+		<Word id="201">
+			<Char id="201" mergeId="0" BBOX="503.91 625.0 3.9257812 8.6015625">?</Char>
+		</Word>
+		<Word id="202">
+			<Char id="202" mergeId="0" BBOX="519.69 625.0 3.65625 10.189453">?</Char>
+		</Word>
+		<Word id="203">
+			<Char id="203" mergeId="0" BBOX="534.14 625.0 3.6621094 8.361328">?</Char>
+		</Word>
+	</Line>
+	<Line id="6" BBOX=40.0 610.0 541.672 610.0 >
+		<Word id="204">
+			<Char id="204" mergeId="0" BBOX="39.93 610.0 3.46875 10.845703">?</Char>
+		</Word>
+		<Word id="205">
+			<Char id="205" mergeId="0" BBOX="54.3 610.0 3.46875 8.666016">?</Char>
+		</Word>
+		<Word id="206">
+			<Char id="206" mergeId="0" BBOX="68.14 607.5039 2.5722656 11.0859375">?</Char>
+		</Word>
+		<Word id="207">
+			<Char id="207" mergeId="0" BBOX="84.08 607.5039 2.1621094 11.0859375">?</Char>
+		</Word>
+		<Word id="208">
+			<Char id="208" mergeId="0" BBOX="98.12 610.0 1.1425781 10.5234375">?</Char>
+		</Word>
+		<Word id="209">
+			<Char id="209" mergeId="0" BBOX="113.06 610.0 1.0546875 6.216797">?</Char>
+		</Word>
+		<Word id="210">
+			<Char id="210" mergeId="0" BBOX="128.12 609.8535 6.9375 8.736328">?</Char>
+		</Word>
+		<Word id="211">
+			<Char id="211" mergeId="0" BBOX="143.63 607.4922 3.7265625 11.097656">?</Char>
+		</Word>
+		<Word id="212">
+			<Char id="212" mergeId="0" BBOX="159.45 609.8535 5.9882812 11.109375">?</Char>
+		</Word>
+		<Word id="213">
+			<Char id="213" mergeId="0" BBOX="174.06 607.4922 3.7089844 11.244141">?</Char>
+		</Word>
+		<Word id="214">
+			<Char id="214" mergeId="0" BBOX="188.5 607.48047 7.1015625 11.109375">?</Char>
+		</Word>
+		<Word id="215">
+			<Char id="215" mergeId="0" BBOX="203.65 607.48047 5.1621094 11.109375">?</Char>
+		</Word>
+		<Word id="216">
+			<Char id="216" mergeId="0" BBOX="218.65 610.0 4.5585938 6.216797">?</Char>
+		</Word>
+		<Word id="217">
+			<Char id="217" mergeId="0" BBOX="233.46 610.0 5.373047 10.986328">?</Char>
+		</Word>
+		<Word id="218">
+			<Char id="218" mergeId="0" BBOX="248.97 610.0 2.1621094 10.986328">?</Char>
+		</Word>
+		<Word id="219">
+			<Char id="219" mergeId="0" BBOX="263.46 607.48047 5.373047 11.109375">?</Char>
+		</Word>
+		<Word id="220">
+			<Char id="220" mergeId="0" BBOX="278.81 607.48047 1.2246094 11.109375">?</Char>
+		</Word>
+		<Word id="221">
+			<Char id="221" mergeId="0" BBOX="294.41 610.0 6.6210938 10.986328">?</Char>
+		</Word>
+		<Word id="222">
+			<Char id="222" mergeId="0" BBOX="309.09 610.0 3.703125 10.986328">?</Char>
+		</Word>
+		<Word id="223">
+			<Char id="223" mergeId="0" BBOX="323.46 610.0 5.373047 8.589844">?</Char>
+		</Word>
+		<Word id="224">
+			<Char id="224" mergeId="0" BBOX="338.63 610.0 2.9472656 8.589844">?</Char>
+		</Word>
+		<Word id="225">
+			<Char id="225" mergeId="0" BBOX="355.0 610.0 6.251953 8.589844">?</Char>
+		</Word>
+		<Word id="226">
+			<Char id="226" mergeId="0" BBOX="369.98 610.0 2.6015625 8.589844">?</Char>
+		</Word>
+		<Word id="227">
+			<Char id="227" mergeId="0" BBOX="383.38 610.0 6.7558594 10.986328">?</Char>
+		</Word>
+		<Word id="228">
+			<Char id="228" mergeId="0" BBOX="398.61 610.0 5.0683594 8.736328">?</Char>
+		</Word>
+		<Word id="229">
+			<Char id="229" mergeId="0" BBOX="413.38 607.48047 6.7558594 11.109375">?</Char>
+		</Word>
+		<Word id="230">
+			<Char id="230" mergeId="0" BBOX="428.61 607.48047 5.0683594 8.876953">?</Char>
+		</Word>
+		<Word id="231">
+			<Char id="231" mergeId="0" BBOX="443.38 610.0 6.7558594 10.986328">?</Char>
+		</Word>
+		<Word id="232">
+			<Char id="232" mergeId="0" BBOX="458.61 610.0 5.0683594 8.736328">?</Char>
+		</Word>
+		<Word id="233">
+			<Char id="233" mergeId="0" BBOX="474.95 610.0 6.732422 8.660156">?</Char>
+		</Word>
+		<Word id="234">
+			<Char id="234" mergeId="0" BBOX="488.34 607.7676 7.0664062 10.96875">?</Char>
+		</Word>
+		<Word id="235">
+			<Char id="235" mergeId="0" BBOX="503.61 607.48047 5.0507812 8.876953">?</Char>
+		</Word>
+		<Word id="236">
+			<Char id="236" mergeId="0" BBOX="519.04 609.8535 8.220703 10.3359375">?</Char>
+		</Word>
+		<Word id="237">
+			<Char id="237" mergeId="0" BBOX="534.28 609.8535 5.830078 8.5078125">?</Char>
+		</Word>
+	</Line>
+	<Line id="7" BBOX=40.0 595.0 541.672 595.0 >
+		<Word id="238">
+			<Char id="238" mergeId="0" BBOX="39.04 594.8535 8.220703 10.9921875">?</Char>
+		</Word>
+		<Word id="239">
+			<Char id="239" mergeId="0" BBOX="54.28 594.8535 5.830078 8.8125">?</Char>
+		</Word>
+		<Word id="240">
+			<Char id="240" mergeId="0" BBOX="69.04 594.8535 8.220703 11.109375">?</Char>
+		</Word>
+		<Word id="241">
+			<Char id="241" mergeId="0" BBOX="84.28 594.8535 5.830078 8.8828125">?</Char>
+		</Word>
+		<Word id="242">
+			<Char id="242" mergeId="0" BBOX="98.71 594.8535 10.857422 8.8828125">Œ</Char>
+			<Char id="243" mergeId="0" BBOX="114.22 594.8535 10.388672 6.5039062">œ</Char>
+		</Word>
+		<Word id="243">
+			<Char id="244" mergeId="0" BBOX="128.36 595.0 7.5703125 10.962891">?</Char>
+		</Word>
+		<Word id="244">
+			<Char id="245" mergeId="0" BBOX="143.69 595.0 3.3867188 8.736328">?</Char>
+		</Word>
+		<Word id="245">
+			<Char id="246" mergeId="0" BBOX="158.36 592.48047 7.5703125 11.109375">?</Char>
+		</Word>
+		<Word id="246">
+			<Char id="247" mergeId="0" BBOX="173.89 592.48047 3.5039062 8.876953">?</Char>
+		</Word>
+		<Word id="247">
+			<Char id="248" mergeId="0" BBOX="188.36 595.0 7.5703125 10.986328">?</Char>
+		</Word>
+		<Word id="248">
+			<Char id="249" mergeId="0" BBOX="204.43 595.0 3.8203125 8.736328">?</Char>
+		</Word>
+		<Word id="249">
+			<Char id="250" mergeId="0" BBOX="219.08 594.8535 6.84375 11.1328125">?</Char>
+		</Word>
+		<Word id="250">
+			<Char id="251" mergeId="0" BBOX="234.37 594.8535 5.1621094 8.8828125">?</Char>
+		</Word>
+		<Word id="251">
+			<Char id="252" mergeId="0" BBOX="249.08 594.8535 6.84375 11.1328125">?</Char>
+		</Word>
+		<Word id="252">
+			<Char id="253" mergeId="0" BBOX="264.37 594.8535 5.1621094 8.8828125">?</Char>
+		</Word>
+		<Word id="253">
+			<Char id="254" mergeId="0" BBOX="279.08 592.48047 6.84375 11.255859">?</Char>
+		</Word>
+		<Word id="254">
+			<Char id="255" mergeId="0" BBOX="294.37 592.48047 5.1621094 8.876953">?</Char>
+		</Word>
+		<Word id="255">
+			<Char id="256" mergeId="0" BBOX="309.08 594.8535 6.84375 11.1328125">Š</Char>
+		</Word>
+		<Word id="256">
+			<Char id="257" mergeId="0" BBOX="324.37 594.8535 5.1621094 8.8828125">š</Char>
+		</Word>
+		<Word id="257">
+			<Char id="258" mergeId="0" BBOX="339.55 592.48047 6.8027344 11.109375">?</Char>
+		</Word>
+		<Word id="258">
+			<Char id="259" mergeId="0" BBOX="354.65 592.48047 3.0234375 10.921875">?</Char>
+		</Word>
+		<Word id="259">
+			<Char id="260" mergeId="0" BBOX="369.55 595.0 6.8027344 10.986328">?</Char>
+		</Word>
+		<Word id="260">
+			<Char id="261" mergeId="0" BBOX="384.65 594.91797 4.669922 8.671875">?</Char>
+		</Word>
+		<Word id="261">
+			<Char id="262" mergeId="0" BBOX="399.55 595.0 6.8027344 8.589844">?</Char>
+		</Word>
+		<Word id="262">
+			<Char id="263" mergeId="0" BBOX="414.65 594.91797 3.0234375 8.484375">?</Char>
+		</Word>
+		<Word id="263">
+			<Char id="264" mergeId="0" BBOX="428.38 594.8535 6.7558594 10.822266">?</Char>
+		</Word>
+		<Word id="264">
+			<Char id="265" mergeId="0" BBOX="443.65 594.8535 5.0507812 8.736328">?</Char>
+		</Word>
+		<Word id="265">
+			<Char id="266" mergeId="0" BBOX="458.38 594.8535 6.7558594 10.359375">?</Char>
+		</Word>
+		<Word id="266">
+			<Char id="267" mergeId="0" BBOX="473.65 594.8535 5.0507812 8.5078125">?</Char>
+		</Word>
+		<Word id="267">
+			<Char id="268" mergeId="0" BBOX="488.38 594.8535 6.7558594 11.015625">?</Char>
+		</Word>
+		<Word id="268">
+			<Char id="269" mergeId="0" BBOX="503.65 594.8535 5.0507812 8.8125">?</Char>
+		</Word>
+		<Word id="269">
+			<Char id="270" mergeId="0" BBOX="518.38 594.8535 6.7558594 11.607422">?</Char>
+		</Word>
+		<Word id="270">
+			<Char id="271" mergeId="0" BBOX="533.65 594.8535 5.0507812 9.169922">?</Char>
+		</Word>
+	</Line>
+	<Line id="8" BBOX=40.0 580.0 541.384 580.0 >
+		<Word id="271">
+			<Char id="272" mergeId="0" BBOX="38.38 579.8535 6.7558594 11.15625">?</Char>
+		</Word>
+		<Word id="272">
+			<Char id="273" mergeId="0" BBOX="53.65 579.8535 5.0507812 8.8828125">?</Char>
+		</Word>
+		<Word id="273">
+			<Char id="274" mergeId="0" BBOX="68.38 577.5039 6.7558594 11.0859375">?</Char>
+		</Word>
+		<Word id="274">
+			<Char id="275" mergeId="0" BBOX="83.65 577.5039 5.8710938 8.712891">?</Char>
+		</Word>
+		<Word id="275">
+			<Char id="276" mergeId="0" BBOX="99.75 580.0 11.050781 10.986328">?</Char>
+		</Word>
+		<Word id="276">
+			<Char id="277" mergeId="0" BBOX="114.9 580.0 8.542969 8.736328">?</Char>
+		</Word>
+		<Word id="277">
+			<Char id="278" mergeId="0" BBOX="129.9 580.0 7.875 10.986328">?</Char>
+		</Word>
+		<Word id="278">
+			<Char id="279" mergeId="0" BBOX="144.67 577.48047 5.7128906 11.255859">?</Char>
+		</Word>
+		<Word id="279">
+			<Char id="280" mergeId="0" BBOX="159.9 580.0 7.875 10.546875">Ÿ</Char>
+		</Word>
+		<Word id="280">
+			<Char id="281" mergeId="0" BBOX="174.63 580.0 6.7910156 10.986328">?</Char>
+		</Word>
+		<Word id="281">
+			<Char id="282" mergeId="0" BBOX="189.59 580.0 5.5078125 8.736328">?</Char>
+		</Word>
+		<Word id="282">
+			<Char id="283" mergeId="0" BBOX="204.63 580.0 6.7910156 10.5234375">?</Char>
+		</Word>
+		<Word id="283">
+			<Char id="284" mergeId="0" BBOX="219.59 580.0 5.5078125 8.53125">?</Char>
+		</Word>
+		<Word id="284">
+			<Char id="285" mergeId="0" BBOX="234.63 580.0 6.7910156 10.986328">Ž</Char>
+		</Word>
+		<Word id="285">
+			<Char id="286" mergeId="0" BBOX="249.59 580.0 5.5078125 8.736328">ž</Char>
+		</Word>
+		<Word id="286">
+			<Char id="287" mergeId="0" BBOX="264.45 579.8535 5.9882812 11.109375">?</Char>
+		</Word>
+		<Word id="287">
+			<Char id="288" mergeId="0" BBOX="279.06 577.4922 3.7089844 11.244141">?</Char>
+		</Word>
+		<Word id="288">
+			<Char id="289" mergeId="0" BBOX="294.41 580.0 6.6210938 10.986328">?</Char>
+		</Word>
+		<Word id="289">
+			<Char id="290" mergeId="0" BBOX="309.09 580.0 3.703125 10.986328">?</Char>
+		</Word>
+		<Word id="290">
+			<Char id="291" mergeId="0" BBOX="324.08 579.8535 6.84375 11.1328125">?</Char>
+		</Word>
+		<Word id="291">
+			<Char id="292" mergeId="0" BBOX="339.37 579.8535 5.1621094 8.8828125">?</Char>
+		</Word>
+		<Word id="292">
+			<Char id="293" mergeId="0" BBOX="354.75 580.0 11.050781 10.986328">?</Char>
+		</Word>
+		<Word id="293">
+			<Char id="294" mergeId="0" BBOX="369.9 580.0 8.542969 8.736328">?</Char>
+		</Word>
+		<Word id="294">
+			<Char id="295" mergeId="0" BBOX="384.9 580.0 7.875 10.986328">?</Char>
+		</Word>
+		<Word id="295">
+			<Char id="296" mergeId="0" BBOX="399.67 577.48047 5.7128906 11.255859">?</Char>
+		</Word>
+		<Word id="296">
+			<Char id="297" mergeId="0" BBOX="414.9 580.0 7.875 10.546875">Ÿ</Char>
+		</Word>
+		<Word id="297">
+			<Char id="298" mergeId="0" BBOX="429.3 579.8535 9.779297 6.5039062">æ</Char>
+		</Word>
+		<Word id="298">
+			<Char id="299" mergeId="0" BBOX="444.22 579.8535 10.388672 6.5039062">œ</Char>
+		</Word>
+		<Word id="299">
+			<Char id="300" mergeId="0" BBOX="459.73 580.0 6.6679688 8.736328">?</Char>
+		</Word>
+		<Word id="300">
+			<Char id="301" mergeId="0" BBOX="474.72 580.0 5.0214844 8.736328">?</Char>
+		</Word>
+		<Word id="301">
+			<Char id="302" mergeId="0" BBOX="489.72 580.0 4.998047 8.736328">?</Char>
+		</Word>
+		<Word id="302">
+			<Char id="303" mergeId="0" BBOX="504.13 580.0 8.003906 8.736328">?</Char>
+		</Word>
+		<Word id="303">
+			<Char id="304" mergeId="0" BBOX="519.73 580.0 8.003906 8.736328">?</Char>
+		</Word>
+		<Word id="304">
+			<Char id="305" mergeId="0" BBOX="533.63 579.91797 5.4492188 8.818359">?</Char>
+		</Word>
+	</Line>
+	<Line id="9" BBOX=40.0 565.0 541.588 565.0 >
+		<Word id="305">
+			<Char id="306" mergeId="0" BBOX="39.37 564.8535 8.625 8.548828">?</Char>
+		</Word>
+		<Word id="306">
+			<Char id="307" mergeId="0" BBOX="53.87 563.6699 5.6835938 5.8125"><</Char>
+		</Word>
+		<Word id="307">
+			<Char id="308" mergeId="0" BBOX="68.87 562.5625 5.6835938 3.5976562">=</Char>
+		</Word>
+		<Word id="308">
+			<Char id="309" mergeId="0" BBOX="83.87 563.6699 5.6835938 5.8125">></Char>
+		</Word>
+		<Word id="309">
+			<Char id="310" mergeId="0" BBOX="99.12 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="310">
+			<Char id="311" mergeId="0" BBOX="113.96 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="311">
+			<Char id="312" mergeId="0" BBOX="129.12 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="312">
+			<Char id="313" mergeId="0" BBOX="143.96 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="313">
+			<Char id="314" mergeId="0" BBOX="159.12 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="314">
+			<Char id="315" mergeId="0" BBOX="173.96 564.60156 5.4609375 5.361328">?</Char>
+		</Word>
+		<Word id="315">
+			<Char id="316" mergeId="0" BBOX="189.28 564.3906 6.1523438 7.3535156">?</Char>
+		</Word>
+		<Word id="316">
+			<Char id="317" mergeId="0" BBOX="204.28 564.3906 6.1523438 7.3535156">?</Char>
+		</Word>
+		<Word id="317">
+			<Char id="318" mergeId="0" BBOX="219.28 563.30664 6.1523438 9.5390625">?</Char>
+		</Word>
+		<Word id="318">
+			<Char id="319" mergeId="0" BBOX="234.28 563.30664 6.1523438 9.5390625">?</Char>
+		</Word>
+		<Word id="319">
+			<Char id="320" mergeId="0" BBOX="249.32 565.0 6.1523438 6.1933594">?</Char>
+		</Word>
+		<Word id="320">
+			<Char id="321" mergeId="0" BBOX="264.14 565.0 6.158203 6.1933594">?</Char>
+		</Word>
+		<Word id="321">
+			<Char id="322" mergeId="0" BBOX="279.28 563.7988 6.1523438 3.7441406">?</Char>
+		</Word>
+		<Word id="322">
+			<Char id="323" mergeId="0" BBOX="294.28 565.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="323">
+			<Char id="324" mergeId="0" BBOX="309.28 565.0 6.1523438 6.158203">?</Char>
+		</Word>
+		<Word id="324">
+			<Char id="325" mergeId="0" BBOX="324.12 564.54297 5.4609375 7.0664062">?</Char>
+		</Word>
+		<Word id="325">
+			<Char id="326" mergeId="0" BBOX="338.96 564.54297 5.4609375 7.0664062">?</Char>
+		</Word>
+		<Word id="326">
+			<Char id="327" mergeId="0" BBOX="354.12 564.31445 5.4609375 7.5234375">?</Char>
+		</Word>
+		<Word id="327">
+			<Char id="328" mergeId="0" BBOX="368.96 564.31445 5.4609375 7.5234375">?</Char>
+		</Word>
+		<Word id="328">
+			<Char id="329" mergeId="0" BBOX="384.14 562.8906 5.9882812 1.921875">?</Char>
+		</Word>
+		<Word id="329">
+			<Char id="330" mergeId="0" BBOX="399.14 564.02734 5.9882812 4.201172">?</Char>
+		</Word>
+		<Word id="330">
+			<Char id="331" mergeId="0" BBOX="414.28 563.89844 6.1523438 3.9257812">?</Char>
+		</Word>
+		<Word id="331">
+			<Char id="332" mergeId="0" BBOX="429.28 565.0 6.1523438 6.1171875">?</Char>
+		</Word>
+		<Word id="332">
+			<Char id="333" mergeId="0" BBOX="444.28 565.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="333">
+			<Char id="334" mergeId="0" BBOX="459.28 565.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="334">
+			<Char id="335" mergeId="0" BBOX="473.46 563.46484 4.4589844 3.0703125">?</Char>
+		</Word>
+		<Word id="335">
+			<Char id="336" mergeId="0" BBOX="486.27 562.84375 2.6367188 10.628906">?</Char>
+		</Word>
+		<Word id="336">
+			<Char id="337" mergeId="0" BBOX="504.63 565.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="337">
+			<Char id="338" mergeId="0" BBOX="518.77 565.0 5.6484375 6.1464844">?</Char>
+		</Word>
+		<Word id="338">
+			<Char id="339" mergeId="0" BBOX="534.63 565.0 5.6484375 6.1464844">?</Char>
+		</Word>
+	</Line>
+	<Line id="10" BBOX=40.0 550.0 544.6 550.0 >
+		<Word id="339">
+			<Char id="340" mergeId="0" BBOX="39.28 550.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="340">
+			<Char id="341" mergeId="0" BBOX="54.28 550.0 6.1523438 6.1464844">?</Char>
+		</Word>
+		<Word id="341">
+			<Char id="342" mergeId="0" BBOX="69.12 549.666 5.4609375 6.8378906">?</Char>
+		</Word>
+		<Word id="342">
+			<Char id="343" mergeId="0" BBOX="83.96 549.666 5.4609375 6.8378906">?</Char>
+		</Word>
+		<Word id="343">
+			<Char id="344" mergeId="0" BBOX="99.12 548.74023 5.4609375 7.763672">?</Char>
+		</Word>
+		<Word id="344">
+			<Char id="345" mergeId="0" BBOX="113.96 548.74023 5.4609375 7.763672">?</Char>
+		</Word>
+		<Word id="345">
+			<Char id="346" mergeId="0" BBOX="129.28 549.0742 6.1523438 7.921875">?</Char>
+		</Word>
+		<Word id="346">
+			<Char id="347" mergeId="0" BBOX="144.28 549.0742 6.1523438 7.921875">?</Char>
+		</Word>
+		<Word id="347">
+			<Char id="348" mergeId="0" BBOX="158.77 550.0 3.8496094 6.1464844">?</Char>
+		</Word>
+		<Word id="348">
+			<Char id="349" mergeId="0" BBOX="174.28 550.0 6.1523438 6.158203">?</Char>
+		</Word>
+		<Word id="349">
+			<Char id="350" mergeId="0" BBOX="189.28 550.0 6.1523438 6.158203">?</Char>
+		</Word>
+		<Word id="350">
+			<Char id="351" mergeId="0" BBOX="204.28 547.791 6.1523438 10.558594">?</Char>
+		</Word>
+		<Word id="351">
+			<Char id="352" mergeId="0" BBOX="219.28 547.791 6.1523438 10.558594">?</Char>
+		</Word>
+		<Word id="352">
+			<Char id="353" mergeId="0" BBOX="234.28 548.91016 6.1523438 8.302734">?</Char>
+		</Word>
+		<Word id="353">
+			<Char id="354" mergeId="0" BBOX="249.65 547.9492 8.144531 2.1855469">?</Char>
+		</Word>
+		<Word id="354">
+			<Char id="355" mergeId="0" BBOX="264.65 548.08984 8.144531 2.1796875">?</Char>
+		</Word>
+		<Word id="355">
+			<Char id="356" mergeId="0" BBOX="278.2 548.6582 4.8984375 3.4570312">?</Char>
+		</Word>
+		<Word id="356">
+			<Char id="357" mergeId="0" BBOX="291.68 547.84375 3.1171875 10.628906">?</Char>
+		</Word>
+		<Word id="357">
+			<Char id="358" mergeId="0" BBOX="309.12 548.74023 5.4609375 8.613281">?</Char>
+		</Word>
+		<Word id="358">
+			<Char id="359" mergeId="0" BBOX="323.96 548.74023 5.4609375 8.613281">?</Char>
+		</Word>
+		<Word id="359">
+			<Char id="360" mergeId="0" BBOX="338.12 547.84375 4.8046875 10.628906">?</Char>
+		</Word>
+		<Word id="360">
+			<Char id="361" mergeId="0" BBOX="354.63 549.75977 6.1523438 6.626953">?</Char>
+		</Word>
+		<Word id="361">
+			<Char id="362" mergeId="0" BBOX="369.63 549.75977 6.1523438 6.626953">?</Char>
+		</Word>
+		<Word id="362">
+			<Char id="363" mergeId="0" BBOX="384.12 549.7949 7.2128906 8.941406">&</Char>
+		</Word>
+		<Word id="363">
+			<Char id="364" mergeId="0" BBOX="399.32 544.9258 3.8730469 3.6621094">*</Char>
+		</Word>
+		<Word id="364">
+			<Char id="365" mergeId="0" BBOX="413.87 548.60547 5.6835938 5.6835938">+</Char>
+		</Word>
+		<Word id="365">
+			<Char id="366" mergeId="0" BBOX="429.28 547.2168 6.1523438 0.57421875">?</Char>
+		</Word>
+		<Word id="366">
+			<Char id="367" mergeId="0" BBOX="445.0 549.7129 3.3339844 8.876953">/</Char>
+		</Word>
+		<Word id="367">
+			<Char id="368" mergeId="0" BBOX="460.0 549.7129 3.3339844 8.876953">\</Char>
+		</Word>
+		<Word id="368">
+			<Char id="369" mergeId="0" BBOX="473.87 550.0 5.6835938 7.330078">±</Char>
+		</Word>
+		<Word id="369">
+			<Char id="370" mergeId="0" BBOX="489.28 550.0 6.1523438 7.4296875">?</Char>
+		</Word>
+		<Word id="370">
+			<Char id="371" mergeId="0" BBOX="503.38 548.30664 5.109375 5.109375">×</Char>
+		</Word>
+		<Word id="371">
+			<Char id="372" mergeId="0" BBOX="518.87 548.24805 5.6835938 4.96875">÷</Char>
+		</Word>
+		<Word id="372">
+			<Char id="373" mergeId="0" BBOX="533.79 548.98047 8.185547 8.185547">?</Char>
+		</Word>
+	</Line>
+	<Line id="11" BBOX=40.0 535.0 543.556 535.0 >
+		<Word id="373">
+			<Char id="374" mergeId="0" BBOX="38.79 533.98047 8.185547 8.185547">?</Char>
+		</Word>
+		<Word id="374">
+			<Char id="375" mergeId="0" BBOX="53.79 533.98047 8.185547 8.185547">?</Char>
+		</Word>
+		<Word id="375">
+			<Char id="376" mergeId="0" BBOX="68.96 534.7129 5.3671875 5.4609375">?</Char>
+		</Word>
+		<Word id="376">
+			<Char id="377" mergeId="0" BBOX="83.96 534.60156 5.3671875 5.455078">?</Char>
+		</Word>
+		<Word id="377">
+			<Char id="378" mergeId="0" BBOX="98.85 535.0 5.2558594 6.1464844">?</Char>
+		</Word>
+		<Word id="378">
+			<Char id="379" mergeId="0" BBOX="113.85 535.0 5.2558594 6.1464844">?</Char>
+		</Word>
+		<Word id="379">
+			<Char id="380" mergeId="0" BBOX="129.28 535.0 6.1523438 7.9453125">?</Char>
+		</Word>
+		<Word id="380">
+			<Char id="381" mergeId="0" BBOX="144.41 534.2324 6.8671875 7.6816406">?</Char>
+		</Word>
+		<Word id="381">
+			<Char id="382" mergeId="0" BBOX="159.41 534.2324 6.8671875 7.6816406">?</Char>
+		</Word>
+		<Word id="382">
+			<Char id="383" mergeId="0" BBOX="173.79 533.98047 8.185547 8.185547">?</Char>
+		</Word>
+		<Word id="383">
+			<Char id="384" mergeId="0" BBOX="189.47 531.09766 5.0039062 4.6875">^</Char>
+		</Word>
+		<Word id="384">
+			<Char id="385" mergeId="0" BBOX="218.71 531.7539 4.453125 15.515625">?</Char>
+		</Word>
+		<Word id="385">
+			<Char id="386" mergeId="0" BBOX="234.32 531.7539 5.109375 15.515625">?</Char>
+		</Word>
+		<Word id="386">
+			<Char id="387" mergeId="0" BBOX="249.16 534.7715 6.09375 9.615234">?</Char>
+		</Word>
+		<Word id="387">
+			<Char id="388" mergeId="0" BBOX="264.65 533.7871 8.1328125 10.236328">?</Char>
+		</Word>
+		<Word id="388">
+			<Char id="389" mergeId="0" BBOX="279.49 533.7871 9.339844 10.224609">?</Char>
+		</Word>
+		<Word id="389">
+			<Char id="390" mergeId="0" BBOX="294.49 533.7871 9.339844 10.224609">?</Char>
+		</Word>
+		<Word id="390">
+			<Char id="391" mergeId="0" BBOX="308.96 534.7129 5.3671875 5.4609375">?</Char>
+		</Word>
+		<Word id="391">
+			<Char id="392" mergeId="0" BBOX="323.96 534.60156 5.3671875 5.455078">?</Char>
+		</Word>
+		<Word id="392">
+			<Char id="393" mergeId="0" BBOX="339.59 529.8613 2.6660156 3.5039062">?</Char>
+		</Word>
+		<Word id="393">
+			<Char id="394" mergeId="0" BBOX="353.85 535.0 5.2558594 6.1464844">?</Char>
+		</Word>
+		<Word id="394">
+			<Char id="395" mergeId="0" BBOX="368.79 533.98047 8.185547 8.185547">?</Char>
+		</Word>
+		<Word id="395">
+			<Char id="396" mergeId="0" BBOX="383.79 533.98047 8.185547 8.185547">?</Char>
+		</Word>
+		<Word id="396">
+			<Char id="397" mergeId="0" BBOX="398.71 531.7539 8.050781 15.515625">?</Char>
+		</Word>
+		<Word id="397">
+			<Char id="398" mergeId="0" BBOX="413.71 531.7539 11.654297 15.515625">?</Char>
+		</Word>
+		<Word id="398">
+			<Char id="399" mergeId="0" BBOX="444.18 533.7988 7.59375 3.7441406">?</Char>
+		</Word>
+		<Word id="399">
+			<Char id="400" mergeId="0" BBOX="459.18 533.7988 7.59375 3.7441406">?</Char>
+		</Word>
+		<Word id="400">
+			<Char id="401" mergeId="0" BBOX="474.18 534.51953 7.59375 5.185547">?</Char>
+		</Word>
+		<Word id="401">
+			<Char id="402" mergeId="0" BBOX="489.18 534.51953 7.59375 5.185547">?</Char>
+		</Word>
+		<Word id="402">
+			<Char id="403" mergeId="0" BBOX="504.18 533.7988 7.59375 3.7441406">?</Char>
+		</Word>
+		<Word id="403">
+			<Char id="404" mergeId="0" BBOX="519.18 534.51953 9.3984375 5.185547">?</Char>
+		</Word>
+		<Word id="404">
+			<Char id="405" mergeId="0" BBOX="530.88 535.0 3.7441406 7.9453125">?</Char>
+		</Word>
+	</Line>
+	<Line id="12" BBOX=40.0 520.0 540.388 520.0 >
+		<Word id="405">
+			<Char id="406" mergeId="0" BBOX="35.88 520.0 3.7441406 7.9453125">?</Char>
+		</Word>
+		<Word id="406">
+			<Char id="407" mergeId="0" BBOX="52.11 520.0 5.185547 7.9453125">?</Char>
+		</Word>
+		<Word id="407">
+			<Char id="408" mergeId="0" BBOX="67.11 520.0 5.185547 7.9453125">?</Char>
+		</Word>
+		<Word id="408">
+			<Char id="409" mergeId="0" BBOX="82.38 519.1094 5.830078 5.830078">?</Char>
+		</Word>
+		<Word id="409">
+			<Char id="410" mergeId="0" BBOX="97.38 518.7754 5.830078 5.830078">?</Char>
+		</Word>
+		<Word id="410">
+			<Char id="411" mergeId="0" BBOX="112.95 519.1094 5.830078 5.830078">?</Char>
+		</Word>
+		<Word id="411">
+			<Char id="412" mergeId="0" BBOX="127.95 518.7754 5.830078 5.830078">?</Char>
+		</Word>
+		<Word id="412">
+			<Char id="413" mergeId="0" BBOX="144.18 518.7988 7.59375 3.7441406">?</Char>
+		</Word>
+		<Word id="413">
+			<Char id="414" mergeId="0" BBOX="159.18 518.7988 7.59375 4.5820312">?</Char>
+		</Word>
+		<Word id="414">
+			<Char id="415" mergeId="0" BBOX="172.73 512.91016 2.1621094 1.6464844">´</Char>
+		</Word>
+		<Word id="415">
+			<Char id="416" mergeId="0" BBOX="189.14 512.91016 2.1621094 1.6464844">`</Char>
+		</Word>
+		<Word id="416">
+			<Char id="417" mergeId="0" BBOX="204.47 516.09766 5.0039062 4.6875">^</Char>
+		</Word>
+		<Word id="417">
+			<Char id="418" mergeId="0" BBOX="219.94 512.74023 3.9257812 1.3300781">˜</Char>
+		</Word>
+		<Word id="418">
+			<Char id="419" mergeId="0" BBOX="234.75 512.91016 3.703125 1.6464844">?</Char>
+		</Word>
+		<Word id="419">
+			<Char id="420" mergeId="0" BBOX="249.55 512.8574 3.46875 1.5234375">?</Char>
+		</Word>
+		<Word id="420">
+			<Char id="421" mergeId="0" BBOX="264.88 510.48438 6.140625 0.59765625">¯</Char>
+		</Word>
+		<Word id="421">
+			<Char id="422" mergeId="0" BBOX="277.52 512.6699 1.078125 1.2011719">?</Char>
+		</Word>
+		<Word id="422">
+			<Char id="423" mergeId="0" BBOX="294.37 512.6699 3.2519531 1.2011719">¨</Char>
+		</Word>
+		<Word id="423">
+			<Char id="424" mergeId="0" BBOX="307.71 512.6699 4.5117188 1.1542969">?</Char>
+		</Word>
+		<Word id="424">
+			<Char id="425" mergeId="0" BBOX="324.88 518.5 6.140625 0.59765625">_</Char>
+		</Word>
+		<Word id="425">
+			<Char id="426" mergeId="0" BBOX="338.12 517.6094 0.9140625 10.980469">|</Char>
+		</Word>
+		<Word id="426">
+			<Char id="427" mergeId="0" BBOX="353.12 518.98047 2.9296875 9.609375">?</Char>
+		</Word>
+		<Word id="427">
+			<Char id="428" mergeId="0" BBOX="368.77 517.48047 2.8417969 11.255859">(</Char>
+		</Word>
+		<Word id="428">
+			<Char id="429" mergeId="0" BBOX="384.26 517.48047 2.8417969 11.255859">)</Char>
+		</Word>
+		<Word id="429">
+			<Char id="430" mergeId="0" BBOX="399.43 517.48047 3.3867188 11.255859">{</Char>
+		</Word>
+		<Word id="430">
+			<Char id="431" mergeId="0" BBOX="414.51 517.48047 3.3867188 11.255859">}</Char>
+		</Word>
+		<Word id="431">
+			<Char id="432" mergeId="0" BBOX="428.61 517.6094 2.3320312 10.980469">[</Char>
+		</Word>
+		<Word id="432">
+			<Char id="433" mergeId="0" BBOX="444.67 517.6094 2.3261719 10.980469">]</Char>
+		</Word>
+		<Word id="433">
+			<Char id="434" mergeId="0" BBOX="454.72 517.3867 4.236328 7.7871094">?</Char>
+		</Word>
+		<Word id="434">
+			<Char id="435" mergeId="0" BBOX="474.77 517.3867 4.248047 7.7871094">?</Char>
+		</Word>
+		<Word id="435">
+			<Char id="436" mergeId="0" BBOX="484.72 515.8457 4.236328 7.7753906">?</Char>
+		</Word>
+		<Word id="436">
+			<Char id="437" mergeId="0" BBOX="504.77 515.8457 4.7695312 7.7753906">?</Char>
+		</Word>
+		<Word id="437">
+			<Char id="438" mergeId="0" BBOX="517.89 517.69727 2.9179688 7.6289062">?</Char>
+		</Word>
+		<Word id="438">
+			<Char id="439" mergeId="0" BBOX="532.89 517.69727 2.9179688 7.6289062">?</Char>
+		</Word>
+	</Line>
+	<Line id="13" BBOX=40.0 505.0 543.844 505.0 >
+		<Word id="439">
+			<Char id="440" mergeId="0" BBOX="37.89 504.30273 2.9179688 7.6289062">?</Char>
+		</Word>
+		<Word id="440">
+			<Char id="441" mergeId="0" BBOX="52.89 504.30273 2.9179688 7.6289062">?</Char>
+		</Word>
+		<Word id="441">
+			<Char id="442" mergeId="0" BBOX="69.34 502.79102 3.1992188 10.535156">?</Char>
+		</Word>
+		<Word id="442">
+			<Char id="443" mergeId="0" BBOX="84.39 502.79102 3.2050781 10.535156">?</Char>
+		</Word>
+		<Word id="443">
+			<Char id="444" mergeId="0" BBOX="98.26 505.0 1.3066406 8.589844">!</Char>
+		</Word>
+		<Word id="444">
+			<Char id="445" mergeId="0" BBOX="114.77 504.85352 6.404297 8.8828125">#</Char>
+		</Word>
+		<Word id="445">
+			<Char id="446" mergeId="0" BBOX="129.22 503.76367 5.6777344 10.623047">$</Char>
+		</Word>
+		<Word id="446">
+			<Char id="447" mergeId="0" BBOX="143.5 504.67773 8.947266 9.058594">%</Char>
+		</Word>
+		<Word id="447">
+			<Char id="448" mergeId="0" BBOX="159.06 505.0 5.5429688 8.736328">?</Char>
+		</Word>
+		<Word id="448">
+			<Char id="449" mergeId="0" BBOX="173.85 502.48047 11.097656 11.267578">@</Char>
+		</Word>
+		<Word id="449">
+			<Char id="450" mergeId="0" BBOX="189.98 505.0 6.6503906 8.589844">¥</Char>
+		</Word>
+		<Word id="450">
+			<Char id="451" mergeId="0" BBOX="204.88 503.5 6.140625 0.59765625">_</Char>
+		</Word>
+		<Word id="451">
+			<Char id="452" mergeId="0" BBOX="219.59 503.81055 6.1054688 3.7792969">?</Char>
+		</Word>
+		<Word id="452">
+			<Char id="453" mergeId="0" BBOX="234.34 504.81836 5.4433594 8.519531">?</Char>
+		</Word>
+		<Word id="453">
+			<Char id="454" mergeId="0" BBOX="249.88 505.0 7.2246094 8.255859">?</Char>
+		</Word>
+		<Word id="454">
+			<Char id="455" mergeId="0" BBOX="264.9 504.9414 3.3984375 7.5820312">?</Char>
+		</Word>
+		<Word id="455">
+			<Char id="456" mergeId="0" BBOX="279.96 505.0 5.859375 8.589844">?</Char>
+		</Word>
+		<Word id="456">
+			<Char id="457" mergeId="0" BBOX="294.06 504.75977 8.4140625 8.472656">?</Char>
+		</Word>
+		<Word id="457">
+			<Char id="458" mergeId="0" BBOX="309.47 504.75977 5.6660156 8.361328">?</Char>
+		</Word>
+		<Word id="458">
+			<Char id="459" mergeId="0" BBOX="323.69 504.77148 7.0195312 8.818359">?</Char>
+		</Word>
+		<Word id="459">
+			<Char id="460" mergeId="0" BBOX="339.06 504.7246 8.5078125 8.5078125">?</Char>
+		</Word>
+		<Word id="460">
+			<Char id="461" mergeId="0" BBOX="354.45 505.0 6.5566406 8.267578">?</Char>
+		</Word>
+		<Word id="461">
+			<Char id="462" mergeId="0" BBOX="367.64 505.0 4.3183594 8.267578">?</Char>
+		</Word>
+		<Word id="462">
+			<Char id="463" mergeId="0" BBOX="383.87 502.5625 5.6835938 3.5976562">¬</Char>
+		</Word>
+		<Word id="463">
+			<Char id="464" mergeId="0" BBOX="399.57 505.0 6.2285156 6.251953">?</Char>
+		</Word>
+		<Word id="464">
+			<Char id="465" mergeId="0" BBOX="413.18 502.46875 5.0683594 4.798828">?</Char>
+		</Word>
+		<Word id="465">
+			<Char id="466" mergeId="0" BBOX="428.26 503.07812 5.1621094 5.15625">?</Char>
+		</Word>
+		<Word id="466">
+			<Char id="467" mergeId="0" BBOX="444.14 502.48047 5.654297 11.255859">§</Char>
+		</Word>
+		<Word id="467">
+			<Char id="468" mergeId="0" BBOX="459.2 502.97266 5.736328 10.417969">†</Char>
+		</Word>
+		<Word id="468">
+			<Char id="469" mergeId="0" BBOX="474.2 502.97266 5.736328 10.5">‡</Char>
+		</Word>
+		<Word id="469">
+			<Char id="470" mergeId="0" BBOX="489.98 502.60938 6.4804688 10.980469">¶</Char>
+		</Word>
+		<Word id="470">
+			<Char id="471" mergeId="0" BBOX="502.81 504.8828 3.515625 8.712891">?</Char>
+		</Word>
+		<Word id="471">
+			<Char id="472" mergeId="0" BBOX="517.81 504.73633 2.7128906 9.09375">?</Char>
+		</Word>
+		<Word id="472">
+			<Char id="473" mergeId="0" BBOX="535.0 504.89453 8.841797 8.841797">©</Char>
+		</Word>
+	</Line>
+	<Line id="14" BBOX=40.0 490.0 331.264 490.0 >
+		<Word id="473">
+			<Char id="474" mergeId="0" BBOX="39.24 487.6211 7.7753906 10.5">?</Char>
+		</Word>
+		<Word id="474">
+			<Char id="475" mergeId="0" BBOX="54.24 490.0 8.900391 8.630859">?</Char>
+		</Word>
+		<Word id="475">
+			<Char id="476" mergeId="0" BBOX="69.34 487.42188 3.2226562 1.0605469">?</Char>
+		</Word>
+		<Word id="476">
+			<Char id="477" mergeId="0" BBOX="84.88 487.32227 12.140625 0.8613281">—</Char>
+		</Word>
+		<Word id="477">
+			<Char id="478" mergeId="0" BBOX="128.28 488.30664 1.2714844 2.8945312">,</Char>
+		</Word>
+		<Word id="478">
+			<Char id="479" mergeId="0" BBOX="143.18 490.0 1.2011719 1.2011719">.</Char>
+		</Word>
+		<Word id="479">
+			<Char id="480" mergeId="0" BBOX="158.96 487.2754 2.9765625 2.9648438">•</Char>
+		</Word>
+		<Word id="480">
+			<Char id="481" mergeId="0" BBOX="173.16 490.0 1.2011719 6.216797">:</Char>
+		</Word>
+		<Word id="481">
+			<Char id="482" mergeId="0" BBOX="188.28 488.30664 1.2714844 7.9101562">;</Char>
+		</Word>
+		<Word id="482">
+			<Char id="483" mergeId="0" BBOX="234.59 488.85742 6.720703 6.7148438">?</Char>
+		</Word>
+		<Word id="483">
+			<Char id="484" mergeId="0" BBOX="247.6 490.0 9.1875 1.2011719">…</Char>
+		</Word>
+		<Word id="484">
+			<Char id="485" mergeId="0" BBOX="263.18 486.3789 1.2011719 1.2011719">·</Char>
+		</Word>
+		<Word id="485">
+			<Char id="486" mergeId="0" BBOX="270.87 489.83008 1.3125 9.316406">?</Char>
+			<Char id="487" mergeId="0" BBOX="290.72 489.0039 6.984375 6.9726562">?</Char>
+		</Word>
+		<Word id="486">
+			<Char id="488" mergeId="0" BBOX="309.06 484.45703 3.5507812 3.046875">?</Char>
+		</Word>
+		<Word id="487">
+			<Char id="489" mergeId="0" BBOX="324.06 484.45703 5.3554688 3.046875">?</Char>
+		</Word>
+	</Line>
+<\Page>
