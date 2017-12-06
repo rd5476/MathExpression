@@ -381,8 +381,8 @@ class BoundingBox extends PDFTextStripper {
         }
         System.out.println(maxY.obj.unicode);
         System.out.println("Height --"+(maxY.startY-baseY+maxY.height)+" - " +maxY.height);
-    //    BufferedImage image = new BufferedImage((int) (expressionComponents.get(expressionComponents.size()-1).startX+2000-base), (int)(maxY.startY-baseY+maxY.height+500), BufferedImage.TYPE_INT_BGR);
-        BufferedImage image = new BufferedImage(100,100,BufferedImage.TYPE_INT_BGR);
+        BufferedImage image = new BufferedImage((int) (expressionComponents.get(expressionComponents.size()-1).startX+2000-base), (int)(maxY.startY-baseY+maxY.height+500), BufferedImage.TYPE_INT_BGR);
+    //    BufferedImage image = new BufferedImage(100,100,BufferedImage.TYPE_INT_BGR);
         //maxY.startY-baseY+maxY.height
         Graphics2D graphic = image.createGraphics();
         double baseFont =expressionComponents.get(0).fontSize;
@@ -397,20 +397,20 @@ class BoundingBox extends PDFTextStripper {
         	a.obj.fontFactor = a.fontSize/baseFont;
         	//System.out.println(a.startY);
         //	a.obj.maxX-=base;
-        //	a.obj.draw(type.Normal,graphic);
+        	a.obj.draw(type.Normal,graphic);
         	
         }
         
         //Flip the image
-      //  AffineTransform tx = AffineTransform.getScaleInstance(1, -1);
+        AffineTransform tx = AffineTransform.getScaleInstance(1, -1);
       //  System.out.println("Transform = "+ (int)(maxY.startY+maxY.height));
-      //  tx.translate(0, -(int)(maxY.startY+maxY.height+500));
-     //   AffineTransformOp op = new AffineTransformOp(tx, AffineTransformOp.TYPE_NEAREST_NEIGHBOR);
-   //     image = op.filter(image, null);
+        tx.translate(0, -(int)(maxY.startY+maxY.height+500));
+        AffineTransformOp op = new AffineTransformOp(tx, AffineTransformOp.TYPE_NEAREST_NEIGHBOR);
+        image = op.filter(image, null);
 
 
-    //    File output = new File("Rahuloutput.png");
-   //     ImageIO.write(image, "png", output);
+        File output = new File("Rahuloutput.png");
+        ImageIO.write(image, "png", output);
       //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     }
